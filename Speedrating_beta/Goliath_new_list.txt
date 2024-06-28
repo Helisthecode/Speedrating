@@ -1,0 +1,1 @@
+[('Quadra V-Tech', 9001.0), ("Ford Mustang'71", 9005.0)]
